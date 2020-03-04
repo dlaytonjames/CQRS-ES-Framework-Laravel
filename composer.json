@@ -23,12 +23,12 @@
     }
   ],
   "require": {
-    "php": ">=7.0.0",
-    "smoothphp/cqrs-es-framework": "~5.0",
-    "laravel/framework": "^5.1"
+    "php": ">=7.2.0",
+    "smoothphp/cqrs-es-framework": "^6.0",
+    "laravel/framework": "^5.1|^6.0|^7.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "4.*",
+    "phpunit/phpunit": "8.*",
     "scrutinizer/ocular": "~1.1"
   },
   "autoload": {
